@@ -1,7 +1,7 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Wasli Mohamed Rayen — Software Engineer",
+  title: "Wasli Rayen — Software Engineer",
   author: "Wasli Rayen",
   description:
     "Passionate software engineer focused on designing and developing innovative solutions. Motivated, curious,and problem-solving oriented, I thrive in dynamic environments where I can contribute to high-quality software architecture and development.",
@@ -25,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Wasli Mohamed Rayen",
+    name: "Wasli Rayen",
     specialty: "Software Engineer",
     summary:
       "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
