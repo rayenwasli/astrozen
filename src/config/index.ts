@@ -2,11 +2,11 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Wasli Mohamed Rayen — Software Engineer",
-  author: "Wasli Mohamed Rayen",
+  author: "Wasli Rayen",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Passionate software engineer focused on designing and developing innovative solutions. Motivated, curious,and problem-solving oriented, I thrive in dynamic environments where I can contribute to high-quality software architecture and development.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/rayen-linkedin.jpeg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -14,8 +14,8 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/rayen-wasli-263b42289/" },
+    { text: "Github", href: "https://github.com/rayenwasli" },
     { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
