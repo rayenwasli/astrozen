@@ -68,7 +68,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A music streaming app that emulates Spotify's core features.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/saye.jpg",
     },
     {
       name: "Shopp App",
