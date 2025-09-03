@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Passionate software engineer focused on designing and developing innovative solutions. Motivated, curious,and problem-solving oriented, I thrive in dynamic environments where I can contribute to high-quality software architecture and development.",
   lang: "en",
-  siteLogo: "/rayen-linkedin.jpeg",
+  siteLogo: "/rayen-linkedin-small.jpeg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
