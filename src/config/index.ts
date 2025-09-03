@@ -28,7 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Wasli Rayen",
     specialty: "Software Engineer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Passionate software engineer focused on designing and developing innovative solutions. Motivated, curious, and problem-solving oriented, I thrive in dynamic environments where I can contribute to high-quality software architecture and development.",
     email: "raynwasli@gmail.com",
   },
   experience: [
